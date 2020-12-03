@@ -1,1 +1,1 @@
-echo "Hello Miracle DevOps !!!"
+echo "Hello Miracle  !!!"
